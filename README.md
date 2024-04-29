@@ -1,2 +1,2 @@
-# notion_widget.github.io
-notion_widget.github.io
+Notion widget
+Thanks!
